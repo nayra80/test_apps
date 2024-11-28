@@ -1,5 +1,6 @@
 streamlit
 pandas
+matplotlib
 geopandas
 pydrive2
 openpyxl
